@@ -1,0 +1,13 @@
+langgraph
+langchain-core
+langchain-openai
+fastapi
+uvicorn
+requests
+PyGithub
+pydantic
+pytest
+httpx
+python-dotenv
+black
+flake8
